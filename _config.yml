@@ -1,1 +1,13 @@
-theme: jekyll-theme-cayman
+#General Jekyll Config
+highlighter: rogue
+name: Stella Oluyemisi kadiri
+description: My Resume
+url: "http://preciouskk.github.iolsi:
+lsi: false
+
+exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
+
+#Build settings
+permalink: pretty
+
+theme: cayman
